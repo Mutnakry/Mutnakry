@@ -109,8 +109,9 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutnakry&theme=radical&border_radius=10&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-<img src="https://github.com/Mutnakry/Mutnakry/blob/main/github-metrics.svg" />
 <img src="https://github-readme-stats.vercel.app/api?username=Mutnakry&count_private=true&show_icons=true&rank_icon=github&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutnakry&layout=compact&theme=radical&langs_count=10" />
+
 
 </div>
 
