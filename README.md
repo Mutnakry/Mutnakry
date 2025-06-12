@@ -107,9 +107,10 @@
 
 ## 🌟 My GitHub Stats 🌟
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mutnakry&show_icons=true&theme=radical&border_radius=10&title_color=ff69b4&icon_color=ff69b4&text_color=a9fef7&bg_color=290,141321,675bff" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutnakry&theme=radical&border_radius=10&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+<img src="https://github.com/Mutnakry/Mutnakry/blob/main/github-metrics.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mutnakry&count_private=true&show_icons=true&rank_icon=github&theme=radical" />
 
 </div>
 
